@@ -140,20 +140,20 @@ Example Insight:
 
 ##  Repository Structure
 
-  IMDB-Movie-Analysis
-├──  data
+  /IMDB-Movie-Analysis
+├──  data/
 │   └──  Raw and cleaned datasets used for analysis
 │
-├──  visuals
+├──  visuals/
 │   └──  Charts, graphs, and plots (e.g., genre distribution, scatter plots)
 │
-├──  excel_analysis
+├──  excel_analysis/
 │   └──  Excel files with formulas, pivot tables, and calculations
 │
-├──  IMDB_Movie_Insights_Report.pdf
+├──  IMDB_Movie_Insights_Report.pdf/
 │   └──  Summarized report with key insights and findings
 │
-└──  README.md
+└──  README.md/
     └──  Project overview, objectives, methodology, and conclusions
 
 
