@@ -140,6 +140,7 @@ Example Insight:
 
 ##  Repository Structure
 
+```
   /IMDB-Movie-Analysis
 ├──  data/
 │   └──  Raw and cleaned datasets used for analysis
@@ -155,7 +156,7 @@ Example Insight:
 │
 └──  README.md/
     └──  Project overview, objectives, methodology, and conclusions
-
+```
 
 ---
 
